@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Nikshithnayak/Leet-code/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nikshithnayak/Leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Nikshithnayak/Leet-code/tree/master/1872-stone-game-viii) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nikshithnayak/Leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
